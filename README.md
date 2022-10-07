@@ -6,7 +6,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://fineanmol.github.io/hacktoberfest/](https://fineanmol.github.io/hacktoberfest/)
+https://github.com/Ghosty-deep/hacktoberfest.git
 
 ## What is Hacktoberfest?
 
@@ -30,7 +30,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/fineanmol/hacktoberfest.git
+git clone https://github.com/Ghosty-deep/hacktoberfest.git
 ```
 
 - Create a branch
